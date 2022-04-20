@@ -1,4 +1,4 @@
-# -PatternLockView开源库使用
+# 开源库使用学习（一）-PatternLockView
 屏幕图案解锁控件
 支持手势滑动解锁绘制
 
